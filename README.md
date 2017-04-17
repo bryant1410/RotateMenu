@@ -1,9 +1,9 @@
 # RotateMenu
 a simple rotatable menu android custom widget. 简单地旋转菜单控件
-#ScreenShot
+# ScreenShot
 <a href="http://s1060.photobucket.com/user/bossyao168/media/2015-03-31%2016_52_22_zpscaot6ddg.gif.html" target="_blank"><img src="http://i1060.photobucket.com/albums/t444/bossyao168/2015-03-31%2016_52_22_zpscaot6ddg.gif" border="0" alt=" photo 2015-03-31 16_52_22_zpscaot6ddg.gif"/></a>
 
-#Usage
+# Usage
 有兴趣的话看看就好，这东西感觉抽出来也没太大意义，纯粹当初练手用的 :)
 
 # Last
